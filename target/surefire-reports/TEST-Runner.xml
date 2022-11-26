@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="13" failures="0" name="Runner" time="3.587" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.17+8"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.17.8-hotspot\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/Users/Eleer/IdeaProjects/qacademy_cucumber_turma6_eleer"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="Runner"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Eleer\IdeaProjects\qacademy_cucumber_turma6_eleer"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.17+8"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Eleer\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.17.8-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Eleer\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Eleer\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.17.8-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Allure\allure-commandline-2.17.3\allure-2.17.3\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Eleer\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\Eleer"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Eleer"/>
+    <property name="java.class.path" value="C:/ProgramData/chocolatey/lib/maven/apache-maven-3.8.6/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Runner test"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.17.8-hotspot"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.17"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="maven.home" value="C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Temurin-11.0.17+8"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="que acesso o site Register" time="0.015"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="preeencho o campo nome com valor &quot;Eleer&quot; e sobrenombre com valor &quot;Mendoza&quot;" time="0.542"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="preeencho o campo Address com valor &quot;Av Cupece&quot;" time="0.157"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="preeencho o campo emailAddress com valor &quot;eleerdario12@gmail.com&quot;" time="0.24"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="preeencho o campo phone com valor &quot;11981882494&quot;" time="0.22"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="clico o campo gender com valor &quot;male&quot;" time="0.141"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="clico o campo hobbies com valor &quot;movies&quot;" time="0.131"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="seleciono o campo skill com &quot;Software&quot;" time="0.172"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="clico o campo selectContry com valor &quot;Japan&quot;" time="0.409"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="seleciono o campo year com valor &quot;1983&quot;" time="0.138"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="seleciono o campo month com valor &quot;May&quot;" time="0.139"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="seleciono o campo day com valor &quot;20&quot;" time="0.158"/>
+  <testcase classname="Validar cadastro com sucesso no site Registro" name="Validar cadastro com sucesso no site Registro" time="1.125"/>
+</testsuite>
